@@ -1,0 +1,212 @@
+{
+  "bio": {
+    "firstName": "Praveen",
+    "lastName": "Selvasekaran",
+    "email": {
+      "personal": "spraveenitpro@gmail.com"
+    },
+    "phone": {
+      "work": "(91) 94833386252"
+    },
+    "summary": "I am a WordPress Developer facilitating the transformation of Small and Medium sized businesses by offering Agile Solutions with open source programming.",
+    "location": {
+      "city": "Bangalore",
+      "countryCode": "IN",
+      "state": "Karnataka"
+    },
+    "websites": {
+      "blog": "http://simpletechlife.in"
+    },
+    "profiles": {
+      "github": "spraveenitpro",
+      "twitter": "spraveenitpro"
+    }
+  },
+  "work": [
+    {
+      "company": "SimpleTechLife",
+      "position": "Founder/ WordPress Developer",
+      "website": "http://simpeltechlife.in",
+      "startDate": "2012",
+      "summary": "Give an overview of your responsibilities at the company",
+      "highlights": [
+        "Designed, Developed and Deployed Custom Themes/Plugins for delivering solutions to customers",
+        "Presented high fidelity prototypes using HTML, CSS and JavaScript to engage customers in interactive feedback sessions.",
+        "Partnered in negotiating cost, schedule, and performance expectations with Project leads/ Vendors/ Free Lancers  ",
+        "Performed Training and Hand over on completion of the project ; Provided technical support for colleagues and clients",
+        "Assisted in defining and promoting technical avenues of growth, direction, vision and planning for the WordPress Team.",
+        "Promoted a clean, holistic, and Responsive design for all the projects with customers, Incorporated Agile Methodology for project management."
+      ]
+    
+    },
+    {
+      "company": "Random Hacks of Kindness",
+      "position": "Community Organizer/ Random Hacks of Kindness Lead",
+      "website": "http://rhok.org",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "As a Founding member of Random Hacks of kindness in India I had a pioneering opportunity to grow the community around crowd sourced innovation . I worked with Global and Local partners to ensure regular Hackathons that facilitate ideation, innovation, prototyping of products and services for social good .",
+      "highlights": [
+        "To Grow and sustain a thriving community of Developers under the umbrella of Random Hacks of Kindness",
+        "To incubate various prototypes that are developed in the hackathons and ensure their productization through through incubation.",
+        "To serve humanity through the intersection of Technology with social action through creation of a platform/ Movement by tapping the cognitive surplus.",
+        "To connect with corporate sponsors for self sufficiency of the programs and with the Non governmental organizations for problem statements/mentorship"
+      ]
+    
+    },
+    {
+      "company": "IBM",
+      "position": "Team Leader",
+      "website": "http://IBM.com",
+      "startDate": "2009",
+      "endDate": "2011",
+      "summary": "Lead the Middleware Operations team of 15 members delivering Middleware Services to Ally Financials as a Team Leader onbehalf IBM India for Customers in Greece [Geniki Bank] , Ireland [O2] and US [General Motors].",
+      "highlights": [
+        "Program and Configure Application server /Middle ware environment builds.",
+        "Assemble and Install/Deploy Server side Java Enterprise Apps",
+        "Configure Security for Server side Applications resources , SSL and Plugins",
+        "Performance Tuning /Security Hardening for Server and application components .",
+        "Problem determinations to trouble shoot incidents.",
+        "Program scripts for Environment monitoring .",
+        "Increased profits by 20% from 2011-2012 through viral advertising"
+      ]
+    
+    },
+    {
+      "company": "Fidelity Investments",
+      "position": "Systems Engineer Lead",
+      "website": "http://fidelity.com",
+      "startDate": "2007",
+      "endDate": "2009",
+      "summary": "Played a Leadership Role in transitioning the CPS Middleware team to Follow the Sun Model between India, Ireland and the US while leading it to the steady state",
+      "highlights": [
+        "To Lead and Deliver Incident and change Mgt for the Middleware Team.",
+        "Ensure Availability and Performance Management of the portfolio.",
+        "Program and deploy the apps and updates to the apps.",
+        "Install, deploy and patching of IBM Websphere application server.",
+        "Provide Trouble shooting and Monitoring to all the Apps deployed .across environments"
+      ]
+    
+    },
+    {
+      "company": "Hewlett Packard",
+      "position": "Technical Analyst",
+      "website": "http://hp.com",
+      "startDate": "2005",
+      "endDate": "2007",
+      "summary": "Develop/ support HP Service Bus which is a Corporate-wide Messaging platform for publish/subscribe messaging providing connectivity between applications within HP and the B2B infrastructure.It facilitates large file handling as one alternative to BatchNet.it offers content based Routing and guaranteed delivery via http or ftp interfaces.",
+      "highlights": [
+        "As Level 2 Support for the B2B/A2A Suite of Messaging Applications, to perform Testing and MTP [Move to production]/Monitoring of the various A2A/B2B projects.",
+        "Resolve bugs and issues on the projects currently live while following ITSM guidelines and STHP and adhering to the SLA's.",
+        "Perform DTS [Data Translation Service] which is a Web service offering within the HPSB portfolio that hosts multiple translation services for business units."
+      ]
+    
+    }
+
+  ],
+
+  
+  "education": [
+    {
+      "institution": "Madurai Kamaraj Univerisity",
+      "startDate": "1999",
+      "endDate": "2003",
+      "area": "Information Technology",
+      "studyType": "Bachelor"
+    },
+     {
+      "institution": "FUNDAEC University",
+      "startDate": "2006",
+       "endDate": "2006",
+      "area": "Social Action",
+      "studyType": "Certificate"
+    }
+    ,
+     {
+      "institution": "IBM Certified SysAdmin Websphere MQ 6.0",
+      "startDate": "2010",
+      "endDate": "2010",
+      "area": "IBM",
+      "studyType": "Certificate"
+    },
+     {
+      "institution": "IBM Certified SysAdmin Websphere Application Server ND 6.1",
+      "startDate": "2010",
+      "endDate": "2010",
+      "area": "IBM",
+      "studyType": "Certificate"
+    },
+     {
+      "institution": "ORACLE WebLogic Server 10g SysAdmin Certified Expert",
+      "startDate": "2010",
+      "endDate": "2010",
+      "area": "Oracle",
+      "studyType": "Certificate"
+    },
+     {
+      "institution": "ITIL v3 Foundation Certified",
+      "startDate": "2011",
+      "endDate": "2011",
+      "area": "EXIN",
+      "studyType": "Certificate"
+    },
+     {
+      "institution": "Competent Communicator Certified",
+      "startDate": "2010",
+      "endDate": "2010",
+      "area": "ToastMasters International",
+      "studyType": "Certificate"
+    }
+  ],
+  
+
+
+    "skills": [
+    {
+      "name": "Front End",
+      "level": "Proficient",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "LESS",
+        "Javascript",
+        "Jquery",
+        "Ajax",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Mysql",
+        "Apache",
+        "Laravel"
+      ]
+    },
+    {
+      "name": "CMS",
+      "level": "Master",
+      "keywords": [
+         "WordPress"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "Proficient",
+      "keywords": [
+         "GIT"
+      ]
+    }
+  ],
+
+
+
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
