@@ -23,6 +23,22 @@
     }
   },
   "work": [
+  {
+      "company": "SimpleTechLife",
+      "position": "Founder/ WordPress Developer",
+      "website": "http://simpeltechlife.in",
+      "startDate": "2012",
+      "summary": "Give an overview of your responsibilities at the company",
+      "highlights": [
+        "Designed, Developed and Deployed Custom Themes/Plugins for delivering solutions to customers",
+        "Presented high fidelity prototypes using HTML, CSS and JavaScript to engage customers in interactive feedback sessions.",
+        "Partnered in negotiating cost, schedule, and performance expectations with Project leads/ Vendors/ Free Lancers  ",
+        "Performed Training and Hand over on completion of the project ; Provided technical support for colleagues and clients",
+        "Assisted in defining and promoting technical avenues of growth, direction, vision and planning for the WordPress Team.",
+        "Promoted a clean, holistic, and Responsive design for all the projects with customers, Incorporated Agile Methodology for project management."
+      ]
+    
+    },
     {
       "company": "SimpleTechLife",
       "position": "Founder/ WordPress Developer",
